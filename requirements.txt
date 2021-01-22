@@ -10,6 +10,6 @@ pytz==2016.7
 requests==2.12.1
 requests-toolbelt==0.7.0
 six==1.10.0
-snowballstemmer==1.2.1
+snowballstemmer==2.1.0
 Sphinx==1.4.9
 versioneer==0.17
